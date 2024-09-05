@@ -1,0 +1,10 @@
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+lxml
+pandas
+snowflake-connector-python
+apache-airflow-providers-snowflake
+snowflake-sqlalchemy
+apache-airflow-providers-amazon
+requests
+urllib3
+openpyxl
